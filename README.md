@@ -1,5 +1,5 @@
 ## Hi there 👋
-Note to Self: You should clone this on "<home-folder>\Documents\Git" folder 
+Note to Self: You should clone this on "{home-folder}\Documents\Git" folder 
 <!--
 **coderunway/coderunway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
