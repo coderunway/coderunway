@@ -1,5 +1,7 @@
 ## Hi there 👋
-**Note to Self**: You should clone this on "{home-folder}\Documents\Git" folder 
+**Note to Self**: 
+1. You should clone this on "{home-folder}\Documents\Git" folder.
+2. Use GitHub Desktop
 <!--
 **coderunway/coderunway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
